@@ -1,0 +1,16 @@
+.navbar-brand img{
+    max-width: 200px;
+}
+.nav-link{
+    margin: 10px;
+}
+.button{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    padding: 6px 20px;
+    border-radius: 20px;
+}
+.front{
+    background-color: #F0FFF0;
+}
