@@ -14,3 +14,24 @@
 .front{
     background-color: #F0FFF0;
 }
+.container{
+    margin-bottom: 0px;
+}
+.headline-highlight{
+    color: #21B573;
+}
+.banner-question{
+    color: #FD511A;
+}
+.banner-text{
+    color: grey;
+}
+.banner img{
+    width: 700px;
+}
+.banner p{
+    margin: 30px 0px;
+}
+.banner{
+    padding: 40px 0px;
+}
